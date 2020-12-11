@@ -10,5 +10,6 @@
 - git branch canvas
 - git checked canvas
 - git merge canvas   
+- git push origin master
 
 
